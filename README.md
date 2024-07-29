@@ -6,15 +6,16 @@
 <h3 align="center">A passionate Full-Stack developer from Chennai</h3>
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m a final year student **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 Currently I'm learning  AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/vijayvrk/vijayvrk/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
- </div> </hr>
+
+ </div> 
+ 
 ###
 
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
