@@ -83,6 +83,7 @@
 </div>
 
 ###
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 <h3 align="center">🐍 My Contributions 🐍</h3>
 
@@ -99,4 +100,4 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/your-username/your-username/blob/output/snake.svg)
+![Snake animation](https://github.com/vijayvrk/vijayvrk/blob/output/snake.svg)
