@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full-Stack developer from Chennai</h3>
 <div align="center">
  
- 🔭 I’m a final year student **a marketplace**
+ 🔭 I’m a final year student 
  
  🌱 Currently I'm learning  AWS**
 
