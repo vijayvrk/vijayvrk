@@ -94,7 +94,7 @@
 </div>
  
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vijayvrk/vijayvrk/output/github-contribution-grid-snake.svg" />
-###
+
 
 <br clear="both">
 
