@@ -94,6 +94,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayvrk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="151" alt="languages graph"  />
 https://leetcard.jacoblin.cool/VijayaRagavan10?ext=heatmap
 </div>
+<h3 align="center">💡 LeetCode Stats 💡</h3>
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/VijayaRagavan10?theme=dark&ext=heatmap" alt="LeetCode Stats" style="border-radius: 5px; height: 150px;" />
+</div>
  
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vijayvrk/vijayvrk/output/github-contribution-grid-snake-dark.svg" />
 
