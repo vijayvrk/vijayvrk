@@ -92,7 +92,6 @@
 
   <img src="https://streak-stats.demolab.com?user=vijayvrk&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayvrk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="151" alt="languages graph"  />
-https://leetcard.jacoblin.cool/VijayaRagavan10?ext=heatmap
 </div>
 <h3 align="center">💡 LeetCode Stats 💡</h3>
 <div align="center">
