@@ -10,7 +10,7 @@
  
  🌱 Currently I'm learning  AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/vijayvrk/vijayvrk/issues)**
+💬 Ask me about **Node.js, React,... [here](https://github.com/vijayvrk/vijayvrk/issues)**
 
 
 
