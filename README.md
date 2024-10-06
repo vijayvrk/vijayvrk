@@ -7,10 +7,8 @@
 <div align="center">
  
  🔭 I’m a final year student 
- 
- 🌱 Currently I'm learning  AWS**
 
-💬 Ask me about **Node.js, React,... [here](https://github.com/vijayvrk/vijayvrk/issues)**
+💬 Ask me about **Frontend,nodej.s,... [here](https://github.com/vijayvrk/vijayvrk/issues)**
 
 
 
@@ -24,8 +22,6 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="c logo"  />
-  <img width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
   <img width="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
   <img width="34" />
@@ -48,11 +44,7 @@
   <img width="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql logo"  />
   <img width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="32" alt="mongodb logo"  />
-  <img width="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="32" alt="angularjs logo"  />
-  <img width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" alt="django logo"  />
   <img width="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="express logo"  />
   <img width="34" />
